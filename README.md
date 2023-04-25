@@ -73,3 +73,4 @@ The agenda of our team is to identify the strategies that could help us define t
 1. What are the most common types of terrorist attacks worldwide, and how have they changed over time?2. To what extent does political instability or conflict contribute to the incidence of terrorist attacks, and vice versa? 3. How have terrorist attacks affected civilian populations in terms of deaths, injuries, displacement, and psychological trauma?
 
 
+# Deliverable 2
