@@ -88,6 +88,6 @@ https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/dashboard.pd
 
 ## c) Documentation
 
-https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/Deliverable%202.pdf
+https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/Deliverable_2.pdf
 # Data Preparation
-As part of the data preparation process, all null values are first checked since they limit the ability of the machine learning algorithm to learn. Each column's null values are examined, and all of them are replaced with zero. After completing the above step, the data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed. The string values present in columns are then transformed into integers as the machine learning algorithm cannot takes string values as input for processing.
+As part of the data preparation process, all null values are first checked since they limit the ability of the machine learning algorithm to learn. Each column's null values are examined, and all of them are replaced with mean. After completing the above step, the data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed.
