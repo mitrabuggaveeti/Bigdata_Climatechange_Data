@@ -79,11 +79,12 @@ The agenda of our team is to identify the strategies that could help us define t
 
 ## a) Exploratory Data Analysis
 
-Exploratory Data Analysis was done through AWS Sagemaker. The link for the file is pasted here: 
+Exploratory Data Analysis was done through AWS Sagemaker. The link for the file is pasted here: https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/Deliverable_2.ipynb
 
 ## b) Dashboard
 Dashboard instances were created using AWS Quicksight. These dashboards are used for presenting results using visualizations such as representing graphs like Pie Chart and Bar Chart for evaluating the research objectives. Also several different plots have been created using Scikit learn library from python and Amazon SageMaker notebook (AWS). Some of the graphs for AWS QuickSight are presented in the PDF, the link for the same is pasted below:
 
+https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/dashboard.pdf
 
 ## c) Documentation
 
