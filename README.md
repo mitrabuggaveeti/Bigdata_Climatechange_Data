@@ -139,3 +139,7 @@ The dataset is chosen from Kaggle and anyone who wishes to use our work needs to
 
 # Implementation of Work / Presentation Video
 Video Link : [https://drive.google.com/file/d/1Nfw-EatrSatFeSFpap7Yc54QGzxK_WLY/view](https://drive.google.com/file/d/1Nfw-EatrSatFeSFpap7Yc54QGzxK_WLY/view)
+
+PPT Link :
+
+Deliverable 3 Doc : 
