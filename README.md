@@ -91,3 +91,50 @@ https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/dashboard.pd
 https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/Deliverable_2.pdf
 # Data Preparation
 As part of the data preparation process, all null values are first checked since they limit the ability of the machine learning algorithm to learn. Each column's null values are examined, and all of them are replaced with mean. After completing the above step, the data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed.
+
+# Deliverable 3
+
+# Analytics, Machine Learning
+This is a sizable dataset that includes historical global temperatures. This data set is frequently used in machine learning and analytics applications for research on climate change, weather forecasting, and several other relevant topics.
+To learn more about the properties of the data, such as patterns, trends, and anomalies in temperature data, exploratory data analysis, or EDA, can be utilized.
+Data analysis can be used to find links and relationships between temperature and other factors like as time, place, and dioxide emissions.
+The use of data visualization tools can be used to produce interactive maps and charts that display temperature patterns over time and in various geographic locations.
+This dataset may be utilized to teach algorithms that use machine learning and develop models of prediction that predict upcoming variations in temperature based on past information.
+Future temperature can be forecast via regression models, particularly the use of linear regression and time-series data models for forecasting.
+In addition to classifying and identifying locations that are most vulnerable to climate change, algorithms like clustering and classification can also be used to group comparable geographic areas based on temperature fluctuations.
+
+# Evaluation and Optimization
+Time series analysis is more appropriate for datasets that exhibit temporal patterns and trends, such as climate change data. Time series analysis is used to analyze data that changes over time, and involves techniques that take into account the temporal ordering of data points.
+Linear regression, on the other hand, is a statistical method used to model the relationship between two or more variables, where one variable is considered the dependent variable and the others are independent variables. It assumes that there is a linear relationship between the independent variables and the dependent variable.
+In the case of climate change data, temperature measurements are collected at regular intervals over time, and the data is organized in a time series format. Linear regression assumes that the data points are independent of each other, which is not true for time series data where the observations are typically correlated with each other over time.
+
+# Results
+The results for some of the questions raised are discussed based upon proper data, performing pre-processing operations on data and including all the required parameters.The price predicted based on parameters like bofy type, fuel type is mentioned in the link below.
+
+# Future Work, Comments
+
+## What was unique about the data? 
+The dataset contains temperature data from thousands of cities and regions worldwide, dating back to 1750. This long-term global coverage is valuable for researchers studying climate patterns and trends over time. The temperature data in the dataset has been carefully cleaned and quality-checked to ensure accuracy and consistency. This helps to reduce errors and biases that can arise from data collection and processing. In addition to temperature readings, the dataset includes other variables such as latitude, longitude, and country/region information. This allows researchers to analyze the data in more detail and consider other factors that may impact temperature patterns.
+
+## Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment? Imputation?
+Spatial Imbalance: The spatial distribution of the dataset is not symmetrical, with some locations having more data than others. This may result in skewed temperature patterns, especially in areas where data is few. To resolve this, we can produce more thorough temperature records by using spatial interpolation techniques to fill in the gaps left by missing data.
+Temporal Imbalance: Additionally, there is a temporal imbalance in the collection, with more current data having better spatial and temporal resolution than older data. This can make it difficult to compare long-term temperature trends and gauge how much the climate is changing. We can address this by using statistical techniques that take into account variations in data coverage and quality over time.
+
+
+## Did you create any new additional features / variables?
+There weren't any new variables, in the dataset, the values are displayed till 2013 (September). So we have enhanced it so that we can predict the temperature values for the next few months (October, and November)
+
+## What was the process you used for evaluation? What was the best result?
+The RMSE values and the percentage error are the evaluation measures for the model we employed. A lower value denotes greater accuracy, and it provides a measure of the average magnitude of the errors between the anticipated and actual values. The RMSE of our model is 14.34.
+
+## Is there Bias in your work? What were the problems you faced? How did you solve them?
+During the project creation there were several problems encountered. There was a problem with a dataset which was chosen. It had to be pre-processed to remove the null values present in the columns of the dataset. Also, the dataset chosen is a Kaggle dataset and setting up the Kaggle dataset on AWS services was a challenge. Also, there were issues while setting up AWS Glue, AWS Athena. Additionally, some of the data operations could not be set up the AWS services initially due to credits.
+
+## What future work would you like to do?
+The first step to improving your climate change model is to collect more data. This can include historical climate data, satellite imagery, or any other relevant data sources.
+
+## Instructions for individuals that may want to use your work
+The dataset is chosen from Kaggle and anyone who wishes to use our work needs to setup the AWS environment with appropriate credentials. Also, it might ask for charges which needs to be paid before using AWS services. Also, the user must load the Kaggle data into AWS and then set up the AWS SageMAker to run the python notebook consisting of code. All the other requirements for the procedure is mentioned within the github repository.
+
+# Implementation of Work / Presentation Video
+Video Link : [https://drive.google.com/file/d/1Nfw-EatrSatFeSFpap7Yc54QGzxK_WLY/view](https://drive.google.com/file/d/1Nfw-EatrSatFeSFpap7Yc54QGzxK_WLY/view)
