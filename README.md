@@ -109,7 +109,7 @@ Linear regression, on the other hand, is a statistical method used to model the 
 In the case of climate change data, temperature measurements are collected at regular intervals over time, and the data is organized in a time series format. Linear regression assumes that the data points are independent of each other, which is not true for time series data where the observations are typically correlated with each other over time.
 
 # Results
-The results for some of the questions raised are discussed based upon proper data, performing pre-processing operations on data and including all the required parameters.The price predicted based on parameters like bofy type, fuel type is mentioned in the link below.
+The results for some of the questions raised are discussed based upon proper data, performing pre-processing operations on data and including all the required parameters.
 
 [https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/Deliverable_3.ipynb](https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/Deliverable_3.ipynb)
 # Future Work, Comments
