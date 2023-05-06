@@ -140,6 +140,6 @@ The dataset is chosen from Kaggle and anyone who wishes to use our work needs to
 # Implementation of Work / Presentation Video
 Video Link : [https://drive.google.com/file/d/1Nfw-EatrSatFeSFpap7Yc54QGzxK_WLY/view](https://drive.google.com/file/d/1Nfw-EatrSatFeSFpap7Yc54QGzxK_WLY/view)
 
-PPT Link :
+PPT Link : [https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/Team13_BigdataFinalPPT.pptx](https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/Team13_BigdataFinalPPT.pptx)
 
-Deliverable 3 Doc : 
+Deliverable 3 Doc : [https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/FinalProjectDocumentation.pdf](https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/FinalProjectDocumentation.pdf)
