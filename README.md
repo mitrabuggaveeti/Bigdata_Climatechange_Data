@@ -111,6 +111,7 @@ In the case of climate change data, temperature measurements are collected at re
 # Results
 The results for some of the questions raised are discussed based upon proper data, performing pre-processing operations on data and including all the required parameters.The price predicted based on parameters like bofy type, fuel type is mentioned in the link below.
 
+[https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/Deliverable_3.ipynb](https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable3/Deliverable_3.ipynb)
 # Future Work, Comments
 
 ## What was unique about the data? 
