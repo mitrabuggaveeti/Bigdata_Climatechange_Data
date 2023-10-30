@@ -73,3 +73,21 @@ The agenda of our team is to identify the strategies that could help us define t
 1. What are the most common types of terrorist attacks worldwide, and how have they changed over time?2. To what extent does political instability or conflict contribute to the incidence of terrorist attacks, and vice versa? 3. How have terrorist attacks affected civilian populations in terms of deaths, injuries, displacement, and psychological trauma?
 
 
+# Deliverable 2
+
+# Data understanding
+
+## a) Exploratory Data Analysis
+
+Exploratory Data Analysis was done through AWS Sagemaker. The link for the file is pasted here: https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/Deliverable_2.ipynb
+
+## b) Dashboard
+Dashboard instances were created using AWS Quicksight. These dashboards are used for presenting results using visualizations such as representing graphs like Pie Chart and Bar Chart for evaluating the research objectives. Also several different plots have been created using Scikit learn library from python and Amazon SageMaker notebook (AWS). Some of the graphs for AWS QuickSight are presented in the PDF, the link for the same is pasted below:
+
+https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/dashboard.pdf
+
+## c) Documentation
+
+https://github.com/mitrabuggaveeti/BDA_Project_13/blob/deliverable2/Deliverable_2.pdf
+# Data Preparation
+As part of the data preparation process, all null values are first checked since they limit the ability of the machine learning algorithm to learn. Each column's null values are examined, and all of them are replaced with mean. After completing the above step, the data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed.
